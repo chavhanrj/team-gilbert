@@ -14,3 +14,21 @@ This is the main repository for the Stage 1 HackBio'2020 Virtual Internship Expe
 
 <h1 align="center">Project: </h1>
 <h1 align="center"> Comparative Genomics of Mycoplasma Hominis </h1>
+# Pipeline
+
+
+# What we want to answer 
+
+# Dependencies
+- conda (Anaconda/miniconda)
+
+
+# Installation
+
+# Usage
+
+# For participants
+
+## Who is doing:
+-  README
+- Tanglegram

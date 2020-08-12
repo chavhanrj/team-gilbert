@@ -1,8 +1,8 @@
 # team-gilbert
 This is HackBio repository for team-gilbert as a part of stage 1 of the internship
 
-<h1 align="center">Hi 👋👋, We are Team-Gilbert 💝</h1>
-<h3 align="center">The team of 10 scientists for HackBio-2020 Virtual Bioinformatics Internship 🖨️</h3>
+<h1 align="center">Hello 👋, We are Team-Gilbert 👋</h1>
+<h3 align="center">The team of 10 scientists for HackBio-2020 Virtual Bioinformatics Internship </h3>
 
 # Project
 
@@ -13,4 +13,4 @@ This is the main repository for the Stage 1 HackBio'2020 Virtual Internship Expe
 
 
 <h1 align="center">TOPIC: </h1>
-<h3 align="center"> Comparative Genomics of Mycoplasma Hominis
+<h1 align="center"> Comparative Genomics of Mycoplasma Hominis </h1>
